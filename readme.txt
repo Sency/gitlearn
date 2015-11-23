@@ -5,4 +5,9 @@ Git is a efficient softward.
 Git revised.
 Git manage.
 Test dev.
+<<<<<<< HEAD
 Master branch.
+=======
+Creat branch.
+>>>>>>> featurel
+both revise.
